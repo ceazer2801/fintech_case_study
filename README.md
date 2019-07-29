@@ -1,8 +1,6 @@
 # **"The Era of Distributed Ledgers"**
 ## *Case Study: How Litecoin Cash (LCC) is enabling digital banking and electronic access to medical and educational records across the world.*
 
-___
-
 ## **The Origins of Litecoin Cash Foundation**
 
 The Litecoin Cash Foundation (LCF) was original founded by Sebastian Clarke, Iain Craig, and Michael Wyszynski, in London, December 2017.  Their original goal was to provide, as they call it, a "best of all worlds" cryptocurrency.  They carefully selected key features from various other projects with optimizations in order to create a cheap, fast, and stable, general use blockchain.  They have since developed an innovative solution to the 51% Attack and partnered with OPUS12 to further utilize their blockchain.
@@ -121,7 +119,7 @@ Coin Name |52wk Price Avg|Market Cap (USD)|# of Nodes|# of Txns 24hrs|Avg Block 
 **LTC** | $85|$5,639,944,305|1,790|24,772|137|8|764|206,843|3,361
 **ZEC** |$132| $485,578,855|379|4,156|151|3|94|16,364|4,062
 **XRP** | $0.51| $13,379,784,813|22,124|1,163,528|3.9|7|4,330|204,052|3,280
-|
+|||||||||
 **LCC** | $0.03|$6,042,478|236|24,847|150|1.5|11|1,107|20
 |
 ##### *Information supplied by coinmarketcap.com, bitinfocharts.com, coingecko.com, explorer.zcha.in, and blockchair.com, talkwalker.com and subject to change regularly*
