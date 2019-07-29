@@ -112,18 +112,19 @@ cooperating group of attacker nodes.[(Satoshi's Whitepaper)](https://bitcoin.org
 
   * **Trustless** – no 3rd party to interact with your transaction.  Transactions are, in their simplest form, direct from wallet to wallet, from peer to peer.
 
-There is currently no one size fits all set of metrics to determine the success of a crypto project but these are some of the data points we have found for the Top 5 coins.
+There is currently no one size fits all set of metrics to determine the success of a crypto project but these are some of the data points for the Top 5 coins.
 
-Coin Name |52wk Price Avg|Satoshis|Market Cap   |# of Nodes|# of Countries w/ Nodes|# of Txns 24hrs|Avg Txn time (Sec)(&#x1F55C;)|Age of Project (Yrs)|# of Merchants | # of Github repos | # of Github commits
-:---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-BTC | $6,000 | 1 | $172,864,674,824 | 8809 | 97 | 315,513 | 564 | 10
-ETH | 
-LTC | 
-ZEC |
-XRP | 
-LCC | 
+Coin Name |52wk Price Avg|Market Cap (USD)|# of Nodes|# of Txns 24hrs|Avg Block time (Sec)&#x1F55C;|Age of Project (Yrs)|# Tweets per day | # Reddit subs | Github Stars
+:---: | :---: | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: 
+**BTC** | $8494 | $170,293,448,707 | 9,299 | 278,164 | 485 | 10.5|14,762|1,092,122|39,486
+**ETH** | $275| $22,551,222,231|7,936|574,870|13|4|4,264|443,587|23,931
+**LTC** | $85|$5,639,944,305|1,790|24,772|137|8|764|206,843|3,361
+**ZEC** |$132| $485,578,855|379|4,156|151|3|94|16,364|4,062
+**XRP** | $0.51| $13,379,784,813|22,124|1,163,528|3.9|7|4,330|204,052|3,280
 |
-
+**LCC** | $0.03|$6,042,478|236|24,847|150|1.5|11|1,107|20
+|
+##### *Information supplied by coinmarketcap.com, bitinfocharts.com, coingecko.com, explorer.zcha.in, and blockchair.com, talkwalker.com and subject to change regularly*
 <br>
 
 ---
