@@ -114,8 +114,8 @@ cooperating group of attacker nodes.[(Satoshi's Whitepaper)](https://bitcoin.org
 
 There is currently no one size fits all set of metrics to determine the success of a crypto project but these are some of the data points for the Top 5 coins.
 
-Coin Name |52wk Price Avg|Market Cap (USD)|# of Nodes|# of Txns 24hrs|Avg Block time (Sec)&#x1F55C;|Age of Project (Yrs)|# Tweets per day | # Reddit subs | Github Stars
-:---: | :---: | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: 
+Coin Name |52wk Price Avg|Market Cap (USD)|# of Nodes|# of Txns 24hrs|Avg Block time (Sec)&#x1F55C;|Age of Project (Yrs)|# Tweets per day | # Reddit subs | Github Stars |
+:---: | :---: | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: 
 **BTC** | $8494 | $170,293,448,707 | 9,299 | 278,164 | 485 | 10.5|14,762|1,092,122|39,486
 **ETH** | $275| $22,551,222,231|7,936|574,870|13|4|4,264|443,587|23,931
 **LTC** | $85|$5,639,944,305|1,790|24,772|137|8|764|206,843|3,361
