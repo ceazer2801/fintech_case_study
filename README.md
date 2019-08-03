@@ -12,7 +12,7 @@ The Litecoin Cash Foundation (LCF) was original founded by Sebastian Clarke, Iai
 The IFO ratio was 10:1 for each holder of Litecoin (LTC) at the block height of 1371111, the 18th of February 2018 <br>
 <a href="https://www.youtube.com/watch?v=dl9if6vjkHc"><img src="https://litecoinca.sh/img/illus/spacedropbadge.png" ALIGN="right" style="padding: 5px" height="150" ></a>
 <br>
-This was followed by a "Space Drop" on 17th of May, 2018 to celebrate the success of their first season of development.  Partnering with Sent Into Space, the team sent a balloon carrying 160,000 LCC to an altitude of 32km where it released a net filled with envelopes.  Each envelope contained infomation inside on how to claim some free Litecoin cash.<br>
+This was followed by a "Space Drop" on 17th of May, 2018 to celebrate the success of their first season of development.  Partnering with Sent Into Space, the team sent a balloon carrying 160,000 LCC to an altitude of 32km where it released a net filled with envelopes.  Each envelope contained infomation inside on how to claim some free Litecoin cash. (Click image for video)<br>
 
 Season 2 of development opened the door for future development funding with the creation of the Hive after a 51% attack.  During the agent creation in the have menu of a full node wallet, there is a tick box to donate 10% of your "creation funds" to the community development fund.  This donation does not lessen the  agent creation, so the vast majority of the community chooses to donate.  
 
