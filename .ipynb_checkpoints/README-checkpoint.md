@@ -5,16 +5,11 @@
 
 The Litecoin Cash Foundation (LCF) was original founded by Sebastian Clarke, Iain Craig, and Michael Wyszynski, in London, December 2017.  Their original goal was to provide, as they call it, a "best of all worlds" cryptocurrency.  They carefully selected key features from various other projects with optimizations in order to create a cheap, fast, and stable, general use blockchain.  They have since developed an innovative solution to the 51% Attack while fostering node distribution and entered into a partnered with OPUS12 Global to further utilize their blockchain for medical and academic records.
 
----
-
 ## Methods of Funding/Distribution for Litecoin Cash Foundation and its Community
-<img src="https://moneymorning.com/wp-content/blogs.dir/1/files/2018/02/litecoin.jpg" ALIGN="left" style="padding: 5px" height="150"> In order to realize the initial monetary distribution, the Initial Fork Offering, or IFO, model was used with a small pre-mine.  A mature, well-maintained donor ledger was chosen, Litecoin (LTC) in order to ensure initial distribution was spread amongst tens if not hundreds of thousands of users. <br> <br>
-The IFO ratio was 10:1 for each holder of Litecoin (LTC) at the block height of 1371111, the 18th of February 2018 <br>
-[![Space Drop](https://space.litecoinca.sh/gfx/title.png)](https://www.youtube.com/watch?v=dl9if6vjkHc)
+<img src="https://moneymorning.com/wp-content/blogs.dir/1/files/2018/02/litecoin.jpg" ALIGN="left" style="padding: 5px" height="150"> In order to realize the initial monetary distribution, the Initial Fork Offering, or IFO, model was used, and a mature, well-maintained donor ledger was chosen, Litecoin (LTC). <br> 
+The IFO ratio was 10:1 for each holder of Litecoin (LTC) at the block height of 1371111, the 18th of February 2018   
 <br>
-This was followed by a "Space Drop" on 17th of May, 2018 to celebrate the success of their first season of development.  Partnering with Sent Into Space, the team sent a balloon carrying 160,000 LCC to an altitude of 32km where it released a net filled with envelopes.  Each envelope contained infomation inside on how to claim some free Litecoin cash.<br>
-
-![Hive Mining Tab](https://litecoinca.sh/img/hive/createbees.png)Season 2 of development opened the door for future development funding with the creation of the Hive after a 51% attack.  During the agent creation in the have menu of a full node wallet, there is a tick box to donate 10% of your "creation funds" to the community development fund.  This donation does not lessen the  agent creation, so the vast majority of the community chooses to donate.  
+![Hive Mining Tab](https://litecoinca.sh/img/hive/createbees.png)During the agent creation in the have menu of a full node wallet, there is a tick box to donate 10% of your "creation funds" to the community development fund.  This donation does not lessen the  agent creation, so the vast majority of the community chooses to donate.  
 
 
 ---
