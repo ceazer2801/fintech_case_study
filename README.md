@@ -10,7 +10,7 @@ The Litecoin Cash Foundation (LCF) was original founded by Sebastian Clarke, Iai
 ## Methods of Funding/Distribution for Litecoin Cash Foundation and its Community
 <img src="https://moneymorning.com/wp-content/blogs.dir/1/files/2018/02/litecoin.jpg" ALIGN="left" style="padding: 5px" height="150"> In order to realize the initial monetary distribution, the Initial Fork Offering, or IFO, model was used with a small pre-mine.  A mature, well-maintained donor ledger was chosen, Litecoin (LTC) in order to ensure initial distribution was spread amongst tens if not hundreds of thousands of users. <br> <br>
 The IFO ratio was 10:1 for each holder of Litecoin (LTC) at the block height of 1371111, the 18th of February 2018 <br>
-<img src="https://litecoinca.sh/img/illus/spacedropbadge.png" ALIGN="left" style="padding: 5px" height="150" href="https://www.youtube.com/watch?v=dl9if6vjkHc">
+<img src="https://litecoinca.sh/img/illus/spacedropbadge.png" ALIGN="right" style="padding: 5px" height="150" href="https://www.youtube.com/watch?v=dl9if6vjkHc">
 <br>
 This was followed by a "Space Drop" on 17th of May, 2018 to celebrate the success of their first season of development.  Partnering with Sent Into Space, the team sent a balloon carrying 160,000 LCC to an altitude of 32km where it released a net filled with envelopes.  Each envelope contained infomation inside on how to claim some free Litecoin cash.<br>
 
